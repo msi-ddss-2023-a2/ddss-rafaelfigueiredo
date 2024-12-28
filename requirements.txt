@@ -1,0 +1,3 @@
+flask                # Framework para criar a aplicação web
+psycopg2             # Biblioteca para conectar ao PostgreSQL
+bcrypt               # Hashing seguro de senhas
